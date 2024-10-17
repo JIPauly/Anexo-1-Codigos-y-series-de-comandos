@@ -3,7 +3,7 @@ import socket
 import ds18b20
 import csv
 from datetime import datetime
-from read_encoder_v2 import Encoder
+from leer_encoder_v2 import Encoder
 
 
 #funcion que llama a los modulos de cada sensor:
